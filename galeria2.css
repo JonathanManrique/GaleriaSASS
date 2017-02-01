@@ -1,0 +1,81 @@
+#m0 {
+  display: flex;
+  height: 30vw;
+  width: 45vw; }
+
+#m1 {
+  display: flex;
+  height: 13vw;
+  width: 13vw; }
+
+#m2 {
+  display: flex;
+  height: 13vw;
+  width: 13vw; }
+
+#m3 {
+  display: flex;
+  height: 13vw;
+  width: 13vw; }
+
+#m4 {
+  display: flex;
+  height: 13vw;
+  width: 13vw; }
+
+#m5 {
+  display: flex;
+  height: 13vw;
+  width: 13vw; }
+
+#m6 {
+  display: flex;
+  height: 13vw;
+  width: 13vw; }
+
+#m7 {
+  display: flex;
+  height: 13vw;
+  width: 13vw; }
+
+#m8 {
+  display: flex;
+  height: 13vw;
+  width: 13vw; }
+
+#m9 {
+  display: flex;
+  height: 13vw;
+  width: 13vw; }
+
+body {
+  background-image: url("https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQDIIo9qmgZB4LvtwjuOLn-l9rOqmM4v8Km7wIPXbxNPMD_brcF");
+  background-repeat: no-repeat;
+  background-size: 100% 100%;
+  background-attachment: fixed;
+  display: flex; }
+
+#contenedor {
+  height: 45vw;
+  width: 50vw;
+  display: flex;
+  align-content: center;
+  align-items: center; }
+
+#cont {
+  display: flex;
+  height: 45vw;
+  width: 48vw;
+  flex-wrap: wrap;
+  align-content: stretch;
+  justify-content: flex-end;
+  align-items: flex-end;
+  justify-content: space-around; }
+
+.img {
+  display: flex;
+  height: 13vw;
+  width: 13vw;
+  border: 2px solid white; }
+
+/*# sourceMappingURL=galeria2.css.map */
